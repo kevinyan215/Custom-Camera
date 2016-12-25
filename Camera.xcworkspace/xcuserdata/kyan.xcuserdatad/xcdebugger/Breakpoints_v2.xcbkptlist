@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Camera/MapViewController.swift"
+            timestampString = "502623174.420178"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Camera.MapViewController.__deallocating_deinit"
+                  moduleName = "Camera"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyan/Documents/xcode_apps/Camera/Camera/MapViewController.swift"
+                  timestampString = "502623174.967443"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Camera.MapViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Camera.MapViewController"
+                  moduleName = "Camera"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyan/Documents/xcode_apps/Camera/Camera/MapViewController.swift"
+                  timestampString = "502623174.970723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Camera.MapViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Camera.MapViewController"
+                  moduleName = "Camera"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyan/Documents/xcode_apps/Camera/Camera/MapViewController.swift"
+                  timestampString = "502623174.973443"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Camera.MapViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Camera.MapViewController&gt;"
+                  moduleName = "Camera"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyan/Documents/xcode_apps/Camera/Camera/MapViewController.swift"
+                  timestampString = "502623174.9757"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Camera.MapViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Camera.MapViewController&gt;"
+                  moduleName = "Camera"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kyan/Documents/xcode_apps/Camera/Camera/MapViewController.swift"
+                  timestampString = "502623174.977374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

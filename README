@@ -1,0 +1,17 @@
+This app is a camera application that allows users to save pictures to albums in real-time. The user specify what album to save the photo to, then when they take the picture, the photo will automatically be stored into that album (if the album doesn’t exist already, it will be created on the spot). You can also crop your saved images. The other functionality of this application is that it uses Google Maps API to get nearby locations. Users can save those locations onto the map and check it out later if they wish. This is so you can find nearby places to take photos. 
+
+
+1. Kevin Yan
+2. kevinyan215@gmail.com	
+3. N/A
+4. Approximately 10 days worth of work 
+5. XCode version 8
+6. Note: 
+To run this application, you need to install Google Places API:
+	1. sudo gem install cocoapods
+	2. cd to project directory: ../Camera and type pod install
+	3. Now to open the IOS application, you have to open the Camera.xcworkspace file 	in the project directory instead of the normal Camera.xcodeproj.
+
+The app should be run on an IPhone or some apple device because there is no camera functionality on the simulator. 
+
+Moreover, the first picture taken is a bit buggy, so if the album isn’t created the first time when you click the Photos tab, try taking another picture and check the Photos tab again. Subsequent pictures should work perfectly fine.

@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'GooglePlacePicker'
+target 'Camera'
